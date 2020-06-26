@@ -1,1 +1,1 @@
-This is a simple project with basich HTML and CSS code.
+This is a simple project with basic HTML and CSS code.
